@@ -1,0 +1,11 @@
+# 统一换行符，避免跨平台克隆产生噪音
+* text=auto eol=lf
+
+# 明确二进制
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.rar binary
+*.zip binary
